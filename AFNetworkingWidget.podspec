@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
-  s.name     = 'AFNetworking'
-  s.version  = '2.4.1.bux'
+  s.name     = 'AFNetworkingWidget'
+  s.version  = '2.4.1.bux.widget'
   s.license  = 'MIT'
   s.summary  = 'A delightful iOS and OS X networking framework.'
   s.homepage = 'https://github.com/AFNetworking/AFNetworking'
